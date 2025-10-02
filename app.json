@@ -3,9 +3,10 @@
     "name": "full_native",
     "slug": "full_native",
     "version": "1.0.0",
+    "main": "expo-router/entry",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fullnative",
+    "scheme": "FullAppNative",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
